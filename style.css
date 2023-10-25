@@ -1,4 +1,4 @@
-html {
+.html {
 height: 100%;
 width: 100%;
 }
@@ -7,6 +7,9 @@ width: 100%;
 height: 650px;}
 body{
 background-color: rgb(255, 217, 0);
+}
+.parte1 {
+    background: greenyellow;
 }
 h1{
 text-align: center; color: red
@@ -17,3 +20,7 @@ text-align: center;
 strong{
 color: indianred;
 }
+.parte2{
+    background: green;
+}
+
